@@ -279,7 +279,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You dont feel fine after the nightmare and you decide to postpone your travel.
+  m_Text: You have a strange feeling since last night. postpone the travel to later.
 --- !u!222 &888761341
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Take your car's key and walk into the garage to get on the road.
+  m_Text: You are aware it is 13th, you must go without losing more time
 --- !u!222 &1722406060
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -977,8 +977,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000076293945, y: 0}
-  m_SizeDelta: {x: 692, y: 389}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 756, y: 425}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1926637799
 MonoBehaviour:
