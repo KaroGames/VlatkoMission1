@@ -663,8 +663,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000076294, y: -85}
-  m_SizeDelta: {x: 415.3, y: 30}
+  m_AnchoredPosition: {x: 256.55005, y: -159}
+  m_SizeDelta: {x: 97.8, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1667147479
 MonoBehaviour:
@@ -801,7 +801,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 729750fc4ec18ef47aa336fbe3ab9ce2, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
@@ -813,7 +813,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: continue
+  m_Text: Continue
 --- !u!222 &1722406060
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -974,8 +974,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0013123, y: -1.5768}
-  m_SizeDelta: {x: 366.56, y: 315.4}
+  m_AnchoredPosition: {x: -0.0018854, y: 0.00015736}
+  m_SizeDelta: {x: 335.53, y: 290.84}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1926637799
 MonoBehaviour:
@@ -1047,8 +1047,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 20.600006, y: 41.625}
-  m_SizeDelta: {x: 603.6, y: 116.75}
+  m_AnchoredPosition: {x: -0.0018845, y: 0.00015068}
+  m_SizeDelta: {x: 635.7, y: 104.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1946948940
 MonoBehaviour:
@@ -1069,13 +1069,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
+    m_Font: {fileID: 12800000, guid: 4cd791879a27ab041913e7428f8d8a8b, type: 3}
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 1
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
