@@ -4,5 +4,119 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 4a81b65f57a56234c86b30c799126fdd
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: f660f68a16a368040b439c4e0fbea84d
+  - enabled: 1
+    path: Assets/Scenes/3a.unity
+    guid: 724018a2860c54d469291d8065da9296
+  - enabled: 1
+    path: Assets/Scenes/3b.unity
+    guid: 80f38700e86a2594f832e2663330e0e6
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 9ec02c399a819ba4688197da4d0e6dfa
+  - enabled: 1
+    path: Assets/Scenes/4abc.unity
+    guid: 7469dfa5d8743bc47b5c468d2e7fe5a1
+  - enabled: 1
+    path: Assets/Scenes/5.unity
+    guid: 96bcbf3bb4654274caa294aff13fcdff
+  - enabled: 1
+    path: Assets/Scenes/5a.unity
+    guid: 6c659032af6d798419fbd9e07d2f2dc9
+  - enabled: 1
+    path: Assets/Scenes/5b.unity
+    guid: aa251aec14538734f8ea6f0e4c4cf226
+  - enabled: 1
+    path: Assets/Scenes/6a.unity
+    guid: cdc95741485632a4a954918addcb61a0
+  - enabled: 1
+    path: Assets/Scenes/6b.unity
+    guid: 052319ff5c3a2384cb792425c5b99c5a
+  - enabled: 1
+    path: Assets/Scenes/7a.unity
+    guid: c0c8a4c96c6902041b1497cda9c6c737
+  - enabled: 1
+    path: Assets/Scenes/7b.unity
+    guid: e8073e3b5dc13e943a76716a479bc65e
+  - enabled: 1
+    path: Assets/Scenes/8b.unity
+    guid: 2e61940d4723b914ea2ecd4319c1dd0a
+  - enabled: 1
+    path: Assets/Scenes/9a.unity
+    guid: 51b96bb44835ebc49aae46b4ed9e200f
+  - enabled: 1
+    path: Assets/Scenes/10a.unity
+    guid: e7b58781ced88ba48a8b878b8a9747a9
+  - enabled: 1
+    path: Assets/Scenes/11a.unity
+    guid: 876cd78d71261904b9acbc842a916e1c
+  - enabled: 1
+    path: Assets/Scenes/12.unity
+    guid: 8749e91f33f2ff141865bdc7db0f7b22
+  - enabled: 1
+    path: Assets/Scenes/12a.unity
+    guid: 0be5e27012b50684a97ab70d90235c6b
+  - enabled: 1
+    path: Assets/Scenes/13.unity
+    guid: 13d3f0c4c053a1d4b9b6649995a7034b
+  - enabled: 1
+    path: Assets/Scenes/14.unity
+    guid: cdb010337e8bb154e8d24292c7f1baec
+  - enabled: 1
+    path: Assets/Scenes/15.unity
+    guid: 30928f77ea61f964ea865ecc63ea6a9e
+  - enabled: 1
+    path: Assets/Scenes/If 8b No.unity
+    guid: 8b1efac7932fe6e4bbdf80659146e971
+  - enabled: 1
+    path: Assets/Scenes/If 8b No 9ab.1.unity
+    guid: 5a49f0ccfc1445e4d91ec240adc76ee7
+  - enabled: 1
+    path: Assets/Scenes/If 8b No 9ab.2.unity
+    guid: 35825e26e1861da47af251af1c880c66
+  - enabled: 1
+    path: Assets/Scenes/If 8b No 9ab.3.unity
+    guid: 4bd53ef789aa2a7468f016223f824e73
+  - enabled: 1
+    path: Assets/Scenes/If 8b Yes.unity
+    guid: cf5798c6c7f64b24194ed7866b9eb548
+  - enabled: 1
+    path: Assets/Scenes/If 8b Yes 9b.1.unity
+    guid: 493bcf718eb5f8c41bf7c6c5ba7d58af
+  - enabled: 1
+    path: Assets/Scenes/If 8b Yes 9b.2.unity
+    guid: 0f79e8c2a95fe674ca4459fa101354a4
+  - enabled: 1
+    path: Assets/Scenes/If 15 No 15b.unity
+    guid: 64627f6f838a9fa45bbc12116a0022e6
+  - enabled: 1
+    path: Assets/Scenes/If 15 Yes 15a.unity
+    guid: 827773620cf521342a431cf8905dfc2f
+  - enabled: 1
+    path: Assets/Scenes/If 15 Yes and If 15a Select 16.unity
+    guid: d0bbb1147b84e1a468480b5a346cf525
+  - enabled: 1
+    path: Assets/Scenes/If 16 Drink.unity
+    guid: 65165f272da889a4d8838cacad563474
+  - enabled: 1
+    path: Assets/Scenes/If 16 Food.unity
+    guid: 722ca283f78f13e499123b3d1d62d894
+  - enabled: 1
+    path: Assets/Scenes/Nec. and Same Final.unity
+    guid: e30c0f0743fbe564abaae3639b9b2c31
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9f6973a4c28d7d04f81d62c8851d2f54
+  - enabled: 1
+    path: Assets/Scenes/The End.unity
+    guid: 7a21a24c9ef258642a8d4291202d0ac0
   m_configObjects: {}
