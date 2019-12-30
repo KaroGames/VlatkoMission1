@@ -21,7 +21,7 @@ public class durdur : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                GetComponentInParent<NavMeshAgent>().enabled = false;
+                GetComponentInParent<NavMeshAgent>().isStopped = true;
             }
         }
     }
@@ -43,6 +43,6 @@ public class durdur : MonoBehaviour
     private void OnTriggerExit(Collider other)
     {
         kesisme = false;
-        GetComponentInParent<NavMeshAgent>().enabled = true;
+        GetComponentInParent<NavMeshAgent>().isStopped = false;
     }
 }
