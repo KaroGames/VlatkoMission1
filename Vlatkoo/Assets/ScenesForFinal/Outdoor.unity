@@ -268,17 +268,17 @@ PrefabInstance:
     - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.833
+      value: 2.2151
       objectReference: {fileID: 0}
     - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.030000348
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.15051518
+      value: 0.12232
       objectReference: {fileID: 0}
     - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
         type: 3}
@@ -319,6 +319,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.51454353
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016487608348160634, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.61684
       objectReference: {fileID: 0}
     - target: {fileID: 6014026182636214490, guid: 1df7ed247fc15764fa57f39d8b29ccf1,
         type: 3}
@@ -1692,7 +1702,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: 'I don''t know anything about this incident, chief. However, I wish you
+    good luck in your search. Dont forget this though: "No matter how many plans you
+    make or how much in control you are, life is always winging it."'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1737,7 +1749,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 66
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1761,12 +1773,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 81993512}
-    characterCount: 38
+    characterCount: 215
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 39
+    wordCount: 40
     linkCount: 0
-    lineCount: 3
+    lineCount: 13
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -2468,7 +2480,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: You came all the way here just to ask a silly question? Well you are asking
+    at the wrong place. Should have visitied the diner on the highway.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2513,7 +2526,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 65
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2537,12 +2550,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 140160971}
-    characterCount: 38
+    characterCount: 142
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 27
+    wordCount: 28
     linkCount: 0
-    lineCount: 3
+    lineCount: 9
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -6127,7 +6140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: You ain't getting any words from this mouth hahh.. I want my lawyer!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6196,12 +6209,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 350584253}
-    characterCount: 38
+    characterCount: 68
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 12
+    wordCount: 13
     linkCount: 0
-    lineCount: 3
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -11486,7 +11499,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: Mind your own business chief. We do not llike stray dogs in this aprt of
+    the town.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11531,7 +11545,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 73
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -11555,12 +11569,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 648041188}
-    characterCount: 38
+    characterCount: 82
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 16
+    wordCount: 17
     linkCount: 0
-    lineCount: 3
+    lineCount: 5
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -15103,7 +15117,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: About the murder? I .. i dont know i was at vacation chief. I wonder if
+    Mike tend to my plants when i was gone..
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15148,7 +15163,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 72
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -15172,12 +15187,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 869808523}
-    characterCount: 38
+    characterCount: 112
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 24
+    wordCount: 24
     linkCount: 0
-    lineCount: 3
+    lineCount: 7
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -15239,7 +15254,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: Hahh. Who directed you to me? you have nothing on me old man. I aint the
+    killed. Hell, I don't even own a gun, how could i shot him? Oh how do i know with
+    which weapon he is killed? Guessed it.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15284,7 +15301,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 57
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -15308,12 +15325,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 871538900}
-    characterCount: 38
+    characterCount: 193
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 41
+    wordCount: 42
     linkCount: 0
-    lineCount: 3
+    lineCount: 12
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -15718,7 +15735,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: One does not discover new lands without consenting to lose sight of the
+    shore for a very long time.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15763,7 +15781,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 72
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -15787,12 +15805,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 893449871}
-    characterCount: 38
+    characterCount: 99
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 18
+    wordCount: 19
     linkCount: 0
-    lineCount: 3
+    lineCount: 6
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -18411,7 +18429,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: 'I''m not going to talk with a dry throat, chief. Local pub is around the
+    corner, see me in afternoon and we can have a proper talk. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -18456,7 +18475,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 80
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -18480,12 +18499,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1076321192}
-    characterCount: 38
+    characterCount: 131
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 27
+    wordCount: 27
     linkCount: 0
-    lineCount: 3
+    lineCount: 8
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -21032,7 +21051,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: I dont know who you are looking for. Try the other guy.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -21101,10 +21120,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1310578654}
-    characterCount: 38
+    characterCount: 55
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 11
+    wordCount: 12
     linkCount: 0
     lineCount: 3
     pageCount: 1
@@ -25983,6 +26002,78 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1708495013}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1708731935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1708731936}
+  - component: {fileID: 1708731938}
+  - component: {fileID: 1708731937}
+  m_Layer: 5
+  m_Name: TMP SubMeshUI [LiberationSans SDF Material + LiberationSans SDF Atlas]
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1708731936
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1708731935}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1992241028}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1708731937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1708731935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058cba836c1846c3aa1c5fd2e28aea77, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_fontAsset: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+  m_spriteAsset: {fileID: 0}
+  m_material: {fileID: 0}
+  m_sharedMaterial: {fileID: 0}
+  m_isDefaultMaterial: 0
+  m_padding: 6.38
+  m_canvasRenderer: {fileID: 1708731938}
+  m_TextComponent: {fileID: 1992241029}
+  m_materialReferenceIndex: 1
+--- !u!222 &1708731938
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1708731935}
+  m_CullTransparentMesh: 0
 --- !u!1 &1711420623 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 196596, guid: 82b7428176cbcbf40bd7b2be6787397d,
@@ -27928,7 +28019,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: That guy was a retired soldier is all I know about him. A veteran, but a
+    caring one. He looked after his friend's family after his death.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27973,7 +28065,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 73
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -27997,12 +28089,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1841881605}
-    characterCount: 38
+    characterCount: 137
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 26
+    wordCount: 27
     linkCount: 0
-    lineCount: 3
+    lineCount: 8
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -28368,7 +28460,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: All i can give you as information is; he came here in every month and sat
+    in the cafe i work at. He used to meet with a middle-aged woman, chat for a while
+    then hand over an envelope and leaves the place.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -28413,7 +28507,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 70
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -28437,12 +28531,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1869258555}
-    characterCount: 38
+    characterCount: 204
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 42
+    wordCount: 43
     linkCount: 0
-    lineCount: 3
+    lineCount: 13
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -28523,7 +28617,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: This sickness is kililng me. God, the flu isn't supposed to be this bad.
+    Oh, sorry. Vlatko you said? Never heard of that guy.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -28568,7 +28663,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 77
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -28592,12 +28687,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1880125387}
-    characterCount: 38
+    characterCount: 125
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 23
+    wordCount: 24
     linkCount: 0
-    lineCount: 3
+    lineCount: 7
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -29943,7 +30038,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: 'That one guy with red pants surely the one you are looking for. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -30012,12 +30107,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1956382781}
-    characterCount: 38
+    characterCount: 64
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 13
+    wordCount: 13
     linkCount: 0
-    lineCount: 3
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -30865,7 +30960,8 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1708731936}
   m_Father: {fileID: 1606093964}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -30892,7 +30988,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: What are you looking at?? Move along..
+  m_text: I'm not lying I never liked him much but death is a different story. I'm
+    sad that he is gone. He visited the community house in the corner every month.
+    That's all i know.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -30937,7 +31035,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
+  m_firstOverflowCharacterIndex: 82
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -30961,12 +31059,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1992241029}
-    characterCount: 38
+    characterCount: 170
     spriteCount: 0
-    spaceCount: 6
-    wordCount: 7
+    spaceCount: 33
+    wordCount: 34
     linkCount: 0
-    lineCount: 3
+    lineCount: 10
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -30975,7 +31073,7 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_subTextObjects:
   - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 1708731937}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
