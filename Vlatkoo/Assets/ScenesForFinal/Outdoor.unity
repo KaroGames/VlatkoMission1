@@ -21522,7 +21522,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8018595f1f5a97b4482037817388f5ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcdiyalogu: {fileID: 2078641767}
+  npcdiyalogu: {fileID: 1841881603}
 --- !u!1001 &1380277569
 PrefabInstance:
   m_ObjectHideFlags: 0
