@@ -8,7 +8,7 @@ public class playernpcinter : MonoBehaviour
 {
 
     public GameObject interactNPCTEXT;
-    public GameObject DialogueTEXT;
+    ///public GameObject DialogueTEXT;
 
     private GameObject interactingNPC;
     private bool eyebastim = false;
@@ -18,7 +18,7 @@ public class playernpcinter : MonoBehaviour
     void Start()
     {
         interactNPCTEXT.SetActive(false);
-        DialogueTEXT.SetActive(false);
+        ///DialogueTEXT.SetActive(false);
     }
 
     // Update is called once per frame
@@ -28,7 +28,7 @@ public class playernpcinter : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.E))
             {
-                DialogueTEXT.SetActive(true);
+                ///DialogueTEXT.SetActive(true);
                 interactNPCTEXT.SetActive(false);
                 eyebastim = true;
             }
@@ -57,7 +57,7 @@ public class playernpcinter : MonoBehaviour
         kesisiyolar = false;
 
         interactNPCTEXT.SetActive(false);
-        DialogueTEXT.SetActive(false);
+        ///DialogueTEXT.SetActive(false);
 
 
         
