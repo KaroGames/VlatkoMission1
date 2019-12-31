@@ -722,7 +722,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 084718e6c47df1647832ffbc35e6321d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -791,12 +791,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   delay: 0.1
-  fullText: "Vlatko is a Russian retired soldier and he has lots of dangerous enemies.
-    One day a policeman found killed person at empty park and policeman analyse this
-    person\u2019s body after analysing one detective said this is a perfect soldier
-    and he attacked a lot of enemies for or country. He name is \u201CVLATKO\u201D
-    but we have a big problem and question \u201CWho Killed Vlatko?\u201D and \u201CWhich
-    enemies killed Vlatko for which reasons?\u201D"
+  fullText: 'Akunin found some clues and evidences about where the murder happened.
+    His clues lead him to a not so far away town with a big park in the middle of
+    the residentials.   He thinks that this is a good place to know more about the
+    incident.  '
 --- !u!114 &1912080558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -816,7 +814,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 32261bc9f7be19143b063b7752839024, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0

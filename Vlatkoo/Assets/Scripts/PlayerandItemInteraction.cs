@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerandItemInteraction : MonoBehaviour
 {
@@ -27,6 +28,12 @@ public class PlayerandItemInteraction : MonoBehaviour
             interact.gameObject.SetActive(false);
             
            // Debug.Log("sa vlatkonun hikayesine hg");
+        }
+
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+
         }
     }
 

@@ -5,21 +5,28 @@ using UnityEngine.SceneManagement;
 
 public class mp3xd : MonoBehaviour
 {
-    void Awake()
+    // Start is called before the first frame update
+    void Start()
     {
-        GameObject[] objs = GameObject.FindGameObjectsWithTag("music");
-        if (objs.Length > 1)
-            Destroy(this.gameObject);
-
-        DontDestroyOnLoad(this.gameObject);
 
     }
-
-    void Update()
+    private static mp3xd instance = null;
+    public static mp3xd Instance
     {
-        if (SceneManager.GetActiveScene().name == "SceneName")
+        get { return instance; }
+    }
+
+    void Awake()
+    {
+        if (instance != null && instance != this)
         {
             Destroy(this.gameObject);
+            return;
         }
+        else
+        {
+            instance = this;
+        }
+        DontDestroyOnLoad(this.gameObject);
     }
 }
