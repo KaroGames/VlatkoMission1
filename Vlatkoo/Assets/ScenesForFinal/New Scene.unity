@@ -7482,28 +7482,28 @@ PrefabInstance:
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_text
-      value: 'He even packed his stuff into his baggage. He was prepared to leave
-        his house but he couldn''t? '
+      value: 'He even packed his stuff into a baggage. Looks like he was going on
+        a vacation. He was prepared to leave his house but he couldn''t? '
       objectReference: {fileID: 0}
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_fontSize
-      value: 6.65
+      value: 5.85
       objectReference: {fileID: 0}
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_textInfo.characterCount
-      value: 95
+      value: 132
       objectReference: {fileID: 0}
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_textInfo.wordCount
-      value: 18
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_textInfo.lineCount
-      value: 9
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
@@ -7513,7 +7513,7 @@ PrefabInstance:
     - target: {fileID: 7536110697048701116, guid: 5a6b99adaba273c45966f084d75c33be,
         type: 3}
       propertyPath: m_textInfo.spaceCount
-      value: 18
+      value: 26
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a6b99adaba273c45966f084d75c33be, type: 3}
