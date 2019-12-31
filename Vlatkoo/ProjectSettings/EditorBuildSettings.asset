@@ -4,4 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ScenesForFinal/Credits.unity
+    guid: a8ed64e39446ef64496f129d379a4c88
+  - enabled: 1
+    path: Assets/ScenesForFinal/New Scene.unity
+    guid: e9cd365dfad6f3140b7d64e9541f6c2d
+  - enabled: 1
+    path: Assets/ScenesForFinal/Start Menu.unity
+    guid: 94655fb6054b0e941b69239d593487fb
+  - enabled: 1
+    path: Assets/ScenesForFinal/Outdoor.unity
+    guid: 376b990005334ca4f9b15f8b30fa5271
+  - enabled: 1
+    path: Assets/ScenesForFinal/Options.unity
+    guid: ed520c1879888084ea8c049786e768fb
+  - enabled: 1
+    path: Assets/ScenesForFinal/TypeWriter.unity
+    guid: 47257b26f82c26b4f89967e59667f3f8
+  - enabled: 1
+    path: Assets/ScenesForFinal/TypeWriter 1.unity
+    guid: e66d1febab14f3a498e0abba292f1476
+  m_configObjects: {}
